@@ -1,0 +1,11 @@
+[ {
+  "uid" : "92c4628f4e0bed67",
+  "name" : "test_login_negative.test_login_negative_passwordd",
+  "time" : {
+    "start" : 1535641273348,
+    "stop" : 1535641278715,
+    "duration" : 5367
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

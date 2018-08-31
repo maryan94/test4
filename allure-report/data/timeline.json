@@ -1,0 +1,25 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "island",
+    "children" : [ {
+      "name" : "25648-MainThread",
+      "children" : [ {
+        "name" : "test_login_negative.test_login_negative_passwordd",
+        "uid" : "92c4628f4e0bed67",
+        "parentUid" : "119b507cb298ee42b50ce91ae124652d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1535641273348,
+          "stop" : 1535641278715,
+          "duration" : 5367
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "119b507cb298ee42b50ce91ae124652d"
+    } ],
+    "uid" : "82661ea0f60733a1c17e6b119ceebece"
+  } ]
+}
