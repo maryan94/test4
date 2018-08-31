@@ -1,0 +1,60 @@
+{
+  "uid" : "92c4628f4e0bed67",
+  "name" : "test_login_negative.test_login_negative_passwordd",
+  "fullName" : "tests.test_login_negative.test_login_negative_passwordd",
+  "historyId" : "ec7a0db37b8ec57f460cd1b8f7cddf4d",
+  "time" : {
+    "start" : 1535641273348,
+    "stop" : 1535641278715,
+    "duration" : 5367
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "island"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "25648-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "tests"
+  }, {
+    "name" : "testClass",
+    "value" : "tests"
+  }, {
+    "name" : "testMethod",
+    "value" : "test_login_negative.test_login_negative_passwordd"
+  }, {
+    "name" : "package",
+    "value" : "tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "92c4628f4e0bed67.json",
+  "parameterValues" : [ ]
+}
